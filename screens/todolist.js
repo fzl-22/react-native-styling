@@ -16,13 +16,13 @@ import {
 import { FontAwesome5, Feather, Entypo } from "@expo/vector-icons";
 
 const TodoList = () => {
-  const instState = [
+  const initState = [
     { title: "Code", isCompleted: true },
     { title: "Meeting with team at 9", isCompleted: false },
     { title: "Check Emails", isCompleted: false },
     { title: "Write an article", isCompleted: false },
   ];
-  const [list, setList] = React.useState(instState);
+  const [list, setList] = React.useState(initState);
   const [inputValue, setInputValue] = React.useState("");
 
   const addItem = (title) => {
