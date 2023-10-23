@@ -219,7 +219,7 @@ export default TodoList;
 ```
 
 
-# 3. Dokumentasi
+# 3. Dokumentasi Output
 
 ## 3.1 App.js
 
