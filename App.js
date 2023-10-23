@@ -1,5 +1,6 @@
 import React from "react";
 import { StatusBar } from "react-native";
+import { useState } from "react";
 import {
   AlignItemsLayout,
   DirectionLayout,
@@ -21,7 +22,7 @@ const App = () => {
   return (
     <>
       <StatusBar style={{ padding: 0 }} />
-      <TodoList/>
+      <WidthHeightBasics/>
     </>
   );
 };
