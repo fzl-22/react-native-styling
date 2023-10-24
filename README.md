@@ -5,6 +5,9 @@
 | NIM | 1203210101 |
 | Kelas | IF-01-01 |
 
+
+Kredensial nama dan NIM terdapat pada komponen `TodoList`.
+
 ## 1. Persiapan 
 
 Buat sebuah project Expo dengan perintah:
