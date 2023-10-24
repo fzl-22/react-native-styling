@@ -4,6 +4,7 @@
 | -- | -- |
 | NIM | 1203210101 |
 | Kelas | IF-01-01 |
+| Repositori | [https://github.com/fzl-22/react-native-styling](https://github.com/fzl-22/react-native-styling) |
 
 
 Kredensial nama dan NIM terdapat pada komponen `TodoList`.
@@ -31,7 +32,7 @@ npm run android
 Dengan ini, project awal Expo berhasil dijalankan.
 
 ## 2. Source Code
-
+`
 ### 2.1 App
 
 File `App.js` merupakan root component ketika aplikasi Expo dijalankan. Komponen ini berisi komponen `StatusBar` dan komponen lain yang terdapat pada direktori `screens`, lebih tepatnya pada komponen yang di-export dari `index.js`.
